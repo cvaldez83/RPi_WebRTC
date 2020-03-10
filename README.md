@@ -1,6 +1,4 @@
-# < WORK IN PROGRESS >
-
-# RPi_WebRTC
+# RPi_WebRTC < WORK IN PROGRESS >
 Use webrtc to stream video from between two computers
 ## How to run server
 sudo node server.js
